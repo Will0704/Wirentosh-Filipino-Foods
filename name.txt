@@ -1,0 +1,16 @@
+<tr>
+				<td class="hype" colspan="4"><img src="Asher.jpg" width="440" height="440"></td>
+				<td class="red" colspan="4"><img src="Karen.jpg" width="440" height="320"></td>
+			</tr>
+			<tr>
+				<td class="green" colspan="4"><h1>Member</h1>
+				<br>Name: Asher M. Vidal
+				<br>Age: 13 yrs. old
+				<br>Birthday: September 02,2004
+				<br>Address: 14 Fernandez Subd. Caranglaan Dist. Dagupan City</td>
+				<td class="violet" colspan="4"><h1>Member</h1>
+				<br>Name: Karen Lee D. Manzon
+				<br>Age: 13 yrs. old
+				<br>Birthday: June 12, 2004
+				<br>Address: 94 Bayanihan Village, Caranglaan, Dagupan City</td>
+			</tr>
